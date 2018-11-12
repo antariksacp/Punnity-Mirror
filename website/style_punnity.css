@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=K2D');
+
+body {
+	background-color: #f2f2f2;
+    font-family: 'K2D', sans-serif;
+    font-size: 48px;
+  	/*text-shadow: 4px 4px 4px #aaa;*/
+}
+
+div {
+	margin: 300px 0px 0px 550px
+    /*margin: auto;*/
+}
