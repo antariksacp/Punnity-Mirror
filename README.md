@@ -1,0 +1,2 @@
+# Punnity-Mirror
+The Pun-nity Mirror is a prototype of a conceptual vanity mirror that responds to some existing beauty standards surrounding the Hijab within the online hijab community. It turns negatively associated phrases such as "I look like an egg with the hijab on," or "that's a huge tent," into comedic and motivational comments as the user looks into the mirror. These pun-pliments (Pun-like compliments) are activated on the website/screen as the user touches a specific part of the mirror. 
